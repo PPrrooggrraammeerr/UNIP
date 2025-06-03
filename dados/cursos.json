@@ -1,0 +1,28 @@
+[
+    {
+		"id": 1,
+        "titulo": "Introdução à Lógica de Programação",
+        "descricao": "Aprenda os conceitos básicos da lógica computacional!"
+    },
+    {
+		"id": 2,
+        "titulo": "Python para Iniciantes",
+        "descricao": "Curso prático para quem quer dar os primeiros passos com Python!"
+    },
+    {
+		"id": 3,
+        "titulo": "Segurança Digital",
+        "descricao": "Entenda como proteger seus dados no mundo digital!"
+    },
+    {
+        "id": 4,
+        "titulo": "Desenvolvimento Web com HTML e CSS",
+        "descricao": "Aprenda a criar páginas web modernas e responsivas do zero!"
+    },
+    {
+        "id": 5,
+        "titulo": "Banco de Dados com MySQL",
+        "descricao": "Entenda os fundamentos de bancos relacionais e como usar SQL!"
+    }
+	
+]
